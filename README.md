@@ -58,7 +58,7 @@ The purpose is to improved their daily operations through organized scheduling a
 
 5. Logout
 --------------------------
-**DEMO VIDEO LINK**
-Good Drive: https://drive.google.com/drive/folders/1ZF2q3G9hsdP7l0T1NGMyMvHaljcgVrmL?usp=drive_link
+**DEMO VIDEO LINK:**
+Google Drive: https://drive.google.com/drive/folders/1ZF2q3G9hsdP7l0T1NGMyMvHaljcgVrmL?usp=drive_link
 --------------------------
 
