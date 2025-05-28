@@ -6,13 +6,13 @@ and Probation Office with SMS Notification
 **SHORT DESCRIPTION:**
 This study developed a web-based system for the Laguna Parole and Probation Office to manage client schedules, monitor probationers, and provide SMS reminders. 
 The purpose is to improved their daily operations through organized scheduling and faster transactions. People who tested the system gave it excellent marks, proving it is both effective and easy to use.
-
+--------------------------
 **FEATURES ADDED / ENHANCED:**
 * Show Password Function
 * Chatbot Feature
 * Archive Feature for Clients List
 * Real-time Search Functionality
-
+--------------------------
 **INSTALLATIONS INSTRUCTIONS**
 1. Download and Extract the System Files
    * Locate the .zip file of the system.
@@ -32,7 +32,7 @@ The purpose is to improved their daily operations through organized scheduling a
   * Open your browser and type:
     http://localhost/[your_system_folder_name]
   * Replace [your_system_folder_name] with the actual name of the extracted folder.
-
+--------------------------
 **HOW TO USE THE SYSTEM**
 1. Login / Register
    * Enter your username and password in the login page.
@@ -57,5 +57,5 @@ The purpose is to improved their daily operations through organized scheduling a
    * View details and compliance updates.
 
 5. Logout
-
+--------------------------
 
