@@ -12,3 +12,23 @@ The purpose is to improved their daily operations through organized scheduling a
 * Chatbot Feature
 * Archive Feature for Clients List
 * Real-time Search Functionality
+
+**INSTALLATIONS INSTRUCTIONS**
+1. Download and Extract the System Files
+   * Locate the .zip file of the system.
+   * Extract the contents inside the htdocs folder of your XAMPP installation directory (usually found at C:\xampp\htdocs).
+     
+2. Import the Database
+   * Open your browser and go to: http://localhost/phpmyadmin
+   * Click on "Import".
+   * Choose the .sql file provided in the project folder.
+   * Click "Go" to import the database successfully.
+     
+3. Start XAMPP Services
+  * Launch the XAMPP Control Panel.
+  * Start both Apache and MySQL services.
+
+4. Access the System
+  * Open your browser and type:
+    http://localhost/[your_system_folder_name]
+  * Replace [your_system_folder_name] with the actual name of the extracted folder.
