@@ -32,3 +32,30 @@ The purpose is to improved their daily operations through organized scheduling a
   * Open your browser and type:
     http://localhost/[your_system_folder_name]
   * Replace [your_system_folder_name] with the actual name of the extracted folder.
+
+**HOW TO USE THE SYSTEM**
+1. Login / Register
+   * Enter your username and password in the login page.
+   * Click Login.
+  
+2. Dashboard Access
+   * View and set client appointments.
+   * Monitor probationer reports.
+   * Send SMS notifications to clients
+   * Track attendance and compliance.
+
+3. Schedule Appointment
+   * Fill in:
+       * Title
+       * Case Number
+       * Description
+    * Click Save
+
+4. Monitoring Probationers
+   * Go to Account Management section.
+   * Select a probationer’s name.
+   * View details and compliance updates.
+
+5. Logout
+
+
